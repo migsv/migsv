@@ -1,4 +1,5 @@
-### Olá! Sou o Miguel
+### Olá! Sou o Miguel 👋
+## 
 
 <a href="https://github.com/migsv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark" />
@@ -13,4 +14,7 @@
   <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
+
+![Snake animation](https://githubcom/migsv/blob/output/github-contribution-grid-snake-svg)
