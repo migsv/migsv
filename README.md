@@ -2,7 +2,7 @@
 ### Sou um programador iniciante e vambora!
 <hr></hr>
 
-<div style="flex"><br>
+<div style="display: flex;"><br>
 <a href="https://github.com/migsv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark" />
 </a>
