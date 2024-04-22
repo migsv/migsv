@@ -1,8 +1,8 @@
 ### Olá! Sou o Miguel
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/migsv/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/migsv/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsva&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
