@@ -1,12 +1,14 @@
-### Olá! Sou o Miguel 👋
-## Sou um programador iniciante e vambora!
-
+## Olá! Sou o Miguel 👋
+### Sou um programador iniciante e vambora!
+<hr></hr>
+<div style="display: inline_block"><br>
 <a href="https://github.com/migsv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark" />
 </a>
 <a href="https://github.com/migsv/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
