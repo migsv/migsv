@@ -4,10 +4,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/migsv/github-readme-stats" style="flex: 1; margin-right: 10px;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark&ring_color=993399&show_icons=true&icon_color=993399&rank_icon=github" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&card_width=290&theme=dark&ring_color=993399&show_icons=true&icon_color=993399&rank_icon=github" />
   </a>
   <a href="https://github.com/migsv/convoychat" style="flex: 1; margin-left: 10px;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&layout=compact&langs_count=8&card_width=300&theme=dark" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&layout=compact&langs_count=8&card_width=290&theme=dark" />
   </a>
 </div>
 
