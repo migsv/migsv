@@ -1,5 +1,5 @@
 ### Olá! Sou o Miguel 👋
-
+## Sou um programador iniciante e vambora!
 
 <a href="https://github.com/migsv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark" />
