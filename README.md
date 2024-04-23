@@ -1,8 +1,12 @@
-## Olá! Sou o Miguel 👋
-### Sou um programador iniciante e vambora!
-<hr></hr>
+<div align ="center">
+  ![Header](./your-header-image-name.png)
+  <h1> Olá 👋! Sou o Miguel</h1>
+  <h4> Um ainda padawan em programação</h3>
 
-<div style="display: flex; justify-content: space-between;">
+  <hr></hr>
+</div>
+
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/migsv/github-readme-stats" style="flex: 1; margin-right: 10px;">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=migsv&theme=dark&ring_color=993399&show_icons=true&icon_color=993399&rank_icon=github" />
   </a>
