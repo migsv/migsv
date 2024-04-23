@@ -12,6 +12,7 @@
   <hr></hr>
 
 <h4>Linguagens e ferramentas</h4>
+
 <div style="display: inline_block", align = "center"><br>
   
   <img align="center" alt="Mig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,14 +20,23 @@
   <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+   <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+  
 </div>
 
 <hr></hr>
 
+  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=migsv&show_icons=true&locale=en&theme=dark&ring_color=993399&icon_color=993399" alt="migsv" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&show_icons=true&locale=en&layout=compact&theme=dark" alt="migsv" /></p>
+
+</div>
 
 <hr></hr>
 
