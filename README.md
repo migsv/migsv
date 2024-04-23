@@ -1,6 +1,7 @@
-![Header](./github/github-header-image-name.png)
+![Header](./github-header-image.png)
 
 <div align ="center">
+  
   <h1> Olá 👋! Sou o Miguel</h1>
   <h4> Um ainda padawan em programação</h3>
 
