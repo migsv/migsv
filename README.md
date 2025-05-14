@@ -1,56 +1,87 @@
-
-![MasterHeader](./github-header-image.png)
-
-
-<div align ="center">
-  
-  <h1> Olá 👋! Sou o Miguel</h1>
-  <h4> Um ainda padawan em programação</h3>
-
-</div>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
-<hr></hr>
-
-<div style="display: inline_block", align = "center">
-  <p align="left"> -  Adoro passar meu tempo livre quebrando a cabeça em codigos ❤</p>
-  <p align="left"> -  Atualmente estou na faculdade e fazendo uns projetos</p>
-  <p align="left"> - Amo gatos 🐈</p>
+<div align="center">
+  <img height="150" src="https://media.tenor.com/4E04tezHmg4AAAAM/cat-shaking.gif"  />
 </div>
 
+###
 
-<hr></hr>
+<br clear="both">
 
-<h4>Linguagens e ferramentas</h4>
-
-<div style="display: inline_block", align = "center"><br>
-  
-  <img align="center" alt="Mig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mig-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
-   <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  
+<div align="center">
+  <a href="www.linkedin.com/in/miguel-veiga-25119a260" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="migsveiga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<hr></hr>
+###
 
-  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=migsv&show_icons=true&locale=en&theme=dark&ring_color=993399&icon_color=993399" alt="migsv" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&show_icons=true&locale=en&layout=compact&theme=dark" alt="migsv" /></p>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=migsv.migsv&"  />
 </div>
 
-<hr></hr>
+###
+
+<h1 align="center">Bom dia👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre Mim</h3>
+
+###
+
+<p align="left">Eae! Eu sou o Miguel, estudante de Ciência de Dados e IA no Ibmec Barra. Sou aquele tipo de pessoa que adora transformar montanhas de dados em insights que fazem sentido. Gosto de descobrir padrões, criar modelos preditivos e usar inteligência artificial para resolver problemas reais.<br><br>Se tem algo que me empolga é transformar números em histórias que ajudam na tomada de decisões. Adoro explorar, aprender coisas novas e ver como os dados podem fazer a diferença.</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=migsv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=migsv&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migsv/migsv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migsv/migsv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/migsv/migsv/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migsv/migsv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migsv/migsv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/migsv/migsv/output/pacman-contribution-graph.svg">
 </picture>
+
+###
