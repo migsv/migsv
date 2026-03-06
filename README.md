@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Eae! Eu sou o Miguel, estudante de Ciência de Dados e IA no Ibmec Barra. Sou aquele tipo de pessoa que adora transformar montanhas de dados em insights que fazem sentido. Gosto de descobrir padrões, criar modelos preditivos e usar inteligência artificial para resolver problemas reais.<br><br>Se tem algo que me empolga é transformar números em histórias que ajudam na tomada de decisões. Adoro explorar, aprender coisas novas e ver como os dados podem fazer a diferença.</p>
+<p align="left">Olá! Eu sou o Miguel, estudante de Ciência de Dados e IA no Ibmec Barra, com foco profissional voltado para a Engenharia de Dados. Mais do que apenas analisar informações, sou apaixonado por construir a infraestrutura e os fluxos necessários para que os dados sejam confiáveis, acessíveis e prontos para gerar valor..</p>
 
 ###
 
